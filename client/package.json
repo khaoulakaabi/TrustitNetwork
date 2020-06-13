@@ -1,0 +1,53 @@
+{
+    "name": "client",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "axios": "^0.18.0",
+      "bootstrap": "^4.3.1",
+      "materialize-css": "^1.0.0-rc.2",
+      "mdbreact": "^4.13.0",
+      "query-string": "^6.5.0",
+      "react": "^16.8.6",
+      "react-animated-slider": "^1.1.4",
+      "react-background-image-loader": "0.0.5",
+      "react-dom": "^16.8.6",
+      "react-dropdown-select": "^3.0.0",
+      "react-flags-select": "^1.1.10",
+      "react-fontawesome": "^1.6.1",
+      "react-icons": "^3.7.0",
+      "react-redux": "^7.0.2",
+      "react-responsive-carousel": "^3.1.49",
+      "react-router": "^5.0.0",
+      "react-router-dom": "^5.0.0",
+      "react-script": "^2.0.5",
+      "react-scripts": "^3.0.0",
+      "react-select": "^2.4.3",
+      "react-transition-group": "^4.0.0",
+      "reactstrap": "^8.0.0",
+      "redux": "^4.0.1",
+      "redux-devtools-extension": "^2.13.8",
+      "redux-thunk": "^2.3.0",
+      "uuid": "^3.3.2"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ],
+    "proxy": "http://localhost:5000",
+    "devDependencies": {
+      "@babel/core": "^7.4.3",
+      "babel-loader": "^8.0.5"
+    }
+  }

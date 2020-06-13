@@ -1,0 +1,54 @@
+{
+    "name": "trustitnetwork",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "client-install": "npm install --prefix client",
+      "start": "node server.js",
+      "server": "nodemon server.js",
+      "client": "npm start --prefix client",
+      "dev": "concurrently \"npm run server\" \"npm run client\""
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "accesscontrol": "^2.2.1",
+      "bcrypt": "^3.0.6",
+      "body-parser": "^1.19.0",
+      "boom": "^7.3.0",
+      "bootstrap": "^4.3.1",
+      "concurrently": "^4.0.1",
+      "cors": "^2.8.5",
+      "crypto": "^1.0.1",
+      "express": "^4.17.1",
+      "express-validator": "^5.3.1",
+      "grommet-icons": "^4.2.0",
+      "grommet-styles": "^0.2.0",
+      "handlebars": "^4.1.2",
+      "is-empty": "^1.2.0",
+      "isfunction": "0.0.6",
+      "jsonwebtoken": "^8.3.0",
+      "jwt-decode": "^2.2.0",
+      "log4js": "^4.3.1",
+      "mongoose": "^5.5.12",
+      "mongoose-paginate": "^5.0.3",
+      "mongoose-unique-validator": "^2.0.3",
+      "multer": "^1.4.1",
+      "nodemailer": "^6.2.1",
+      "passport": "^0.4.0",
+      "passport-jwt": "^4.0.0",
+      "query-string": "^6.5.0",
+      "radium": "^0.25.1",
+      "react-dom": "^16.8.6",
+      "react-facebook-login": "^4.1.1",
+      "react-transition-group": "^4.1.0",
+      "reactstrap": "^8.0.0",
+      "styled-components": "^4.2.1",
+      "validator": "^10.9.0"
+    },
+    "devDependencies": {
+      "ws": "3.3.2"
+    }
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "files": {
+      "main.css": "/static/css/main.8e25ba98.chunk.css",
+      "main.js": "/static/js/main.b39abe64.chunk.js",
+      "main.js.map": "/static/js/main.b39abe64.chunk.js.map",
+      "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+      "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+      "static/css/2.ca6d7ed2.chunk.css": "/static/css/2.ca6d7ed2.chunk.css",
+      "static/js/2.4496d5dc.chunk.js": "/static/js/2.4496d5dc.chunk.js",
+      "static/js/2.4496d5dc.chunk.js.map": "/static/js/2.4496d5dc.chunk.js.map",
+      "index.html": "/index.html",
+      "precache-manifest.b7207dd68b897f6f1efb5fd110baa97e.js": "/precache-manifest.b7207dd68b897f6f1efb5fd110baa97e.js",
+      "service-worker.js": "/service-worker.js",
+      "static/css/2.ca6d7ed2.chunk.css.map": "/static/css/2.ca6d7ed2.chunk.css.map",
+      "static/css/main.8e25ba98.chunk.css.map": "/static/css/main.8e25ba98.chunk.css.map",
+      "static/media/3.svg": "/static/media/3.18abdd3a.svg",
+      "static/media/TN.png": "/static/media/TN.9b6a9077.png",
+      "static/media/background.jpg": "/static/media/background.10153c16.jpg",
+      "static/media/doc.svg": "/static/media/doc.9da8b8de.svg",
+      "static/media/innovation2.jpg": "/static/media/innovation2.c17f2a01.jpg",
+      "static/media/money.svg": "/static/media/money.6b1dbb74.svg",
+      "static/media/search.svg": "/static/media/search.a87eca9e.svg",
+      "static/media/tutto.svg": "/static/media/tutto.837ba4aa.svg",
+      "static/media/video.svg": "/static/media/video.1d1ff68f.svg"
+    }
+  }
