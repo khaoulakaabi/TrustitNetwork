@@ -25,7 +25,7 @@
       "express-validator": "^5.3.1",
       "grommet-icons": "^4.2.0",
       "grommet-styles": "^0.2.0",
-      "handlebars": "^4.1.2",
+      "handlebars": "^4.5.3",
       "is-empty": "^1.2.0",
       "isfunction": "0.0.6",
       "jsonwebtoken": "^8.3.0",
