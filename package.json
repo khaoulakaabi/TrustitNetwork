@@ -45,7 +45,7 @@
       "react-transition-group": "^4.1.0",
       "reactstrap": "^8.0.0",
       "styled-components": "^4.2.1",
-      "validator": "^10.9.0"
+      "validator": "^13.7.0"
     },
     "devDependencies": {
       "ws": "3.3.2"
