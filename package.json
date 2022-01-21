@@ -30,7 +30,7 @@
       "isfunction": "0.0.6",
       "jsonwebtoken": "^8.3.0",
       "jwt-decode": "^2.2.0",
-      "log4js": "^4.3.1",
+      "log4js": "^6.4.0",
       "mongoose": "^5.7.5",
       "mongoose-paginate": "^5.0.3",
       "mongoose-unique-validator": "^2.0.3",
